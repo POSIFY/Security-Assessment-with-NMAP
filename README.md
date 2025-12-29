@@ -99,5 +99,3 @@ Identify what services are running and their versions.
 **Analyst Insight**
 Knowing the exact version helps correlate services with known vulnerabilities (CVEs).
 
-
-
